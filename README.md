@@ -2,7 +2,7 @@
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/12766112625535264431276611262553526443)
 
-## My name is Gabriel Bruck
+## My name is Gabriel MELLO
 **(Java | Kotlin | JavaScript | Python | AWS | Spring Boot | HTML | CSS)** 🚀
 
 ### 👨‍💻 Backend Developer with expertise in:
